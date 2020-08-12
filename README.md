@@ -4,7 +4,7 @@ An exercize to practice Sass.
 
 ## Tasks
 
-1. Modularize the `styles.scss` file into manu other files so that the `styles.scss` file's only code is importing the other files.
+1. Modularize the `styles.scss` file into many other files so that the only code in `styles.scss` is importing the other files.
 1. Find all colors used and create a variable to store each. Replace all color literals with a variable.
 1. Apply nesting to the styles where it makes sense
 
