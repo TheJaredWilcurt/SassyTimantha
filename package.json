@@ -1,0 +1,22 @@
+{
+    "title": "Timantha Timothee's Portfolio",
+    "name": "timantha-timothees-portfolio",
+    "version": "1.0.0",
+    "scripts": {
+        "sasslint": "sass-lint -c .sass-lint.yml -v -f table"
+    },
+    "devDependencies": {
+        "node-sass": "^4.14.1",
+        "sass-lint": "^1.13.1",
+        "tjw-sasslint-rules": "^2.1.0"
+    },
+    "description": "A stylish portfolio",
+    "keywords": [
+        "css",
+        "html",
+        "js",
+        "optimization"
+    ],
+    "license": "MIT",
+    "author": "Timantha Timothee"
+}
