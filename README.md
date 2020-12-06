@@ -13,7 +13,7 @@ You can use [Scout-App](https://Scout-App.io) to process the Sass.
 
 ## Bonus points
 
-If you have Node (and npm) installed, try making the linter pass:
+If you have [Node](https://nodejs.org) (and npm) installed, try making the linter pass:
 
 1. `npm install`
 1. `npm run sasslint`
