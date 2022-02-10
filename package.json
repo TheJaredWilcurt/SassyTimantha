@@ -6,7 +6,7 @@
         "sasslint": "sass-lint -c .sass-lint.yml -v -f table"
     },
     "devDependencies": {
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "sass-lint": "^1.13.1",
         "tjw-sasslint-rules": "^2.1.0"
     },
